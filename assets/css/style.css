@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial;
+    margin: 0;
+  }
+  
+  header {
+    padding: 60px;
+    text-align: center;
+    background: #772014;
+    color: #fff;
+  }
+  
+  main {
+    overflow: hidden;
+  }
+  
+  div {
+    float: left;
+    width: 25%;
+    box-sizing: border-box;
+    padding: 20px;
+    border: 1px solid #ddd;
+    background: grey;
+  }
+  
+  button {
+    display: block;
+    margin-bottom: 15px;
+    padding: 15px;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  footer {
+    clear: both;
+    padding: 20px;
+    text-align: center;
+    background: #772014;
+    color: #fff;
+  }
+
+  
