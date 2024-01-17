@@ -18,7 +18,7 @@
     overflow: hidden;
   }
   
-  div {
+  .tables {
     float: left;
     width: 25%;
     box-sizing: border-box;
@@ -26,6 +26,10 @@
     border: 1px solid #ddd;
     background: grey;
   }
+
+  .hiddenTable {
+    display: none;
+}
   
   button {
     display: block;
